@@ -14,7 +14,7 @@ function result(e) {
     if(document.querySelector("#answer3").checked) {
         points++;
     }
-    if(document.querySelector("#answer4").checed) {
+    if(document.querySelector("#answer4").checked) {
         points++;
     }
     if(document.querySelector("#answer5").checked) {
